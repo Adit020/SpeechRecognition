@@ -1,4 +1,13 @@
-Speech Recognition Application using Python
-This speech recognizer will take your speech and convert it to text and will also search your speech content on the web browser.
-There is a built in trigger system in this application that will search your speech automatically when you will add search word in your speech.
-Still Devoloping for more features.....
+A speech recognition-based search assistant using Python, Tkinter, and Google Speech Recognition API! 🧑‍💻🎤
+
+🔹 Features:
+✅ Real-time speech-to-text conversion
+✅ Voice-activated web search (Google, Bing, etc.)
+✅ Personalized settings with JSON-based preferences
+✅ Alexa-inspired UI for a sleek look
+✅ Multi-threading for smooth user experience
+
+🔹 Tech Stack:
+🖥️ Python | Tkinter | SpeechRecognition | JSON | Threading 
+
+This project improved my GUI development, speech recognition, and multithreading skills, making interactions with computers more intuitive.
