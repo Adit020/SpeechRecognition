@@ -40,12 +40,6 @@ Make sure you have the following installed:
 
 ---
 
-# 🧭 Project Roadmap – Voice-Controlled Desktop Assistant
-
-This roadmap outlines the planned development milestones, potential enhancements, and long-term vision for the Voice-Controlled Desktop Assistant.
-
----
-
 ## ✅ Current Features
 
 - 🎙️ Voice recognition using Google API
@@ -94,12 +88,6 @@ We highly encourage developers and users to:
 - Recommend accessibility improvements
 
 > 📢 Open an issue with the `enhancement` label to add ideas to the roadmap.
-
----
-
-# 🤝 Contributing Guide – Voice-Controlled Desktop Assistant
-
-Thank you for your interest in contributing to this project! Whether you’re here to fix a bug, add a feature, or suggest improvements — you’re most welcome.
 
 ---
 
