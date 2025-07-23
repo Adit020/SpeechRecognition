@@ -29,5 +29,102 @@ A **GUI-based Voice Assistant** built using Python and Tkinter. This smart assis
 
 ---
 
-## 📂 Project Structure
+### 🔧 Prerequisites
 
+Make sure you have the following installed:
+
+- Python 3.x
+- tkinter (usually included with Python)
+- [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
+- [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
+
+---
+
+# 🧭 Project Roadmap – Voice-Controlled Desktop Assistant
+
+This roadmap outlines the planned development milestones, potential enhancements, and long-term vision for the Voice-Controlled Desktop Assistant.
+
+---
+
+## ✅ Current Features
+
+- 🎙️ Voice recognition using Google API
+- 🌐 Web search with user-selected search engine
+- 🎨 Theme customization (Alexa, Light, Dark)
+- 🧠 Settings/preferences stored in JSON
+- 📋 Log file with timestamped user actions
+- 🖥️ Tkinter-based GUI interface
+- 🧵 Background thread for continuous listening
+
+---
+
+## 🚀 In Progress / Planned Features
+
+### 🔊 Voice Experience
+- [ ] Wake word detection (e.g., “Hey Assistant”)
+- [ ] Offline speech recognition option (e.g., using VOSK)
+- [ ] Multilingual support
+
+### 🧠 Intelligence & UX
+- [ ] NLP-based intent understanding
+- [ ] Auto-suggestions or autocomplete for queries
+- [ ] Chatbot-style responses or feedback
+
+### 📅 Productivity Integration
+- [ ] Calendar integration (Google Calendar API)
+- [ ] To-do list and task tracking
+- [ ] Notes or reminders functionality
+
+### 📱 Cross-Platform Expansion
+- [ ] Kivy-based Android version
+- [ ] Lightweight Electron-based desktop port (optional)
+
+### ⚙️ Developer-Focused Enhancements
+- [ ] Configurable logging levels (debug/info/warning)
+- [ ] Plugin system for adding custom commands
+- [ ] Modular codebase refactor
+
+---
+
+## 💡 Open for Suggestions
+
+We highly encourage developers and users to:
+- Propose new features
+- Suggest integrations (e.g., APIs, IoT)
+- Recommend accessibility improvements
+
+> 📢 Open an issue with the `enhancement` label to add ideas to the roadmap.
+
+---
+
+# 🤝 Contributing Guide – Voice-Controlled Desktop Assistant
+
+Thank you for your interest in contributing to this project! Whether you’re here to fix a bug, add a feature, or suggest improvements — you’re most welcome.
+
+---
+
+## 🧰 Ways to Contribute
+
+### 🛠️ Code Contributions
+- Improve performance or reliability
+- Add new voice commands or features
+- Fix bugs or UI issues
+- Refactor code for clarity or modularity
+
+### 🧪 Testing & QA
+- Test the app across different OS environments
+- Report usability issues or crashes
+- Help test planned features before full release
+
+### 💬 Suggestions & Feedback
+- Propose feature ideas via Issues
+- Suggest user experience or accessibility improvements
+
+---
+
+## 🧾 Contribution Process
+
+1. **Fork the repository**
+2. **Clone your forked repo**
+   ```bash
+   git clone https://github.com/your-username/voice-desktop-assistant.git
